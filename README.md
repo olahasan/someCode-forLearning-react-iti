@@ -52,7 +52,7 @@ Otherwise, all links will open in the same tab.
 
  ## Screenshot
  
-![Screenshot](./public/form.png)
+![Screenshot](./public/form1.png)
 
 
 ### Author
