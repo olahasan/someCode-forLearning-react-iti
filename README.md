@@ -48,7 +48,7 @@ Otherwise, all links will open in the same tab.
 
 - Solution URL: [here](https://github.com/olahasan/someCode-forLearning-react-iti) 
 
-- Live Site URL: [here](https://somecode-forlearning-react-iti.surge.sh/)   OR  [here]() 
+- Live Site URL: [here](https://somecode-forlearning-react-iti.surge.sh/)   OR  [here](https://somecode-forlearning-react-iti.netlify.app/) 
 
  ## Screenshot
  
